@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Bethelhem Alemayehu Ejigu
 
-<!--
-**bethelhem-dev/bethelhem-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | MERN, Django & API Development Enthusiast  
+💡 Passionate about empowering women in tech  
+🇪🇹 Ethiopian | @ALX_Africa student  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🔭 Currently building impactful backend projects  
+- 🌱 Continuously learning new technologies and best practices  
+- 🌍 Committed to increasing tech access and equity for women in Ethiopia and beyond  
+- 🚀 I want to influence the tech world by driving innovation and inspiring others  
+
+---
+
+### Skills & Technologies
+- Programming: JavaScript (Node.js, React), Python (Django)  
+- API Development & Integration  
+- Database: MongoDB, SQL  
+- Tools: Git, GitHub, REST APIs, Postman  
+
+---
+
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/bethelhem-alemayehu-961322316)
+
+---
+
+*“Empowering women through technology is not just my passion, it’s my mission.”*
