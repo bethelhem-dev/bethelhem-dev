@@ -2,7 +2,7 @@
 
 💻 Backend Developer | MERN, Django & API Development Enthusiast  
 💡 Passionate about empowering women in tech  
-🇪🇹 Ethiopian | @ALX_Africa student  
+🇪🇹 Ethiopian | @ALX_Africa student  | Software Engineering Student @AASTU
 
 ---
 
