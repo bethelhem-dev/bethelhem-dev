@@ -77,6 +77,35 @@
 </div>
 
 ---
+## ☕ Support Me
+
+<div align="center">
+
+If you enjoy my work, consider supporting me! 💛  
+<br>
+
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=YOUR_USERNAME&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" />
+</a>
+
+</div>
+## 💛 Support My Work
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+  <h3>☕ Buy Me A Coffee</h3>
+  <p>If you like what I do, consider supporting me. Your support motivates me to create more! 😊</p>
+
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+
+---
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/bethelhem-alemayehu-961322316)
 
