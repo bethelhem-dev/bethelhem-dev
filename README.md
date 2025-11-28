@@ -20,8 +20,29 @@
 - Database: MongoDB, SQL  
 - Tools: Git, GitHub, REST APIs, Postman  
 
+
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=bethelhem-dev&label=Profile%20views&color=0e75b6&style=flat)
+
+<!-- Stats Cards -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bethelhem-dev&theme=2077" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bethelhem-dev&theme=2077" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bethelhem-dev&theme=2077" height="180em" />
+
+<!-- Detailed Stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bethelhem-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bethelhem's GitHub stats" height="180em" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bethelhem-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180em" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bethelhem-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+
+</div>
+
+---
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/bethelhem-alemayehu-961322316)
 
