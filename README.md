@@ -78,9 +78,8 @@
 
 ---
 
+## 🏆 GitHub Achievements
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=bethelhem-dev&theme=radical&column=6&no-frame=true&margin-w=5&margin-h=5)
-
-
 
 ---
 ## ☕ Support Me
