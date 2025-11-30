@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bethelhem Alemayehu Ejigu
+# Hi there 👋, I'm Bethelhem Alemayehu
 
 💻 Backend Developer | MERN, Django & API Development Enthusiast  
 💡 Passionate about empowering women in tech  
