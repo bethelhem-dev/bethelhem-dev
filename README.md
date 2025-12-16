@@ -7,6 +7,7 @@
 ---
 
 ### About Me
+
 - Currently building impactful backend projects  
 - Continuously learning new technologies and best practices  
 - Committed to increasing tech access and equity for women in Ethiopia and beyond  
