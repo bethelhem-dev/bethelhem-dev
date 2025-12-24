@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Bethelhem Alemayehu
+# Hi there 👋, I'm Shanese Emmanuel Ntwari
 
 💻 Backend Developer | MERN, Django & API Development Enthusiast  
 💡 Passionate about empowering women in tech  
-🇪🇹 Ethiopian | @ALX_Africa student  | Software Engineering Student @AASTU
+   Rwandan | @ALX_Africa student  | Software Engineering ScholarShip Student @AASTU
 
 ---
 
