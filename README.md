@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shanese Emmanuel Ntwari
+# Hi there 👋, I'm Shanese 
 
 💻 Backend Developer | MERN, Django & API Development Enthusiast  
 💡 Passionate about empowering women in tech  
