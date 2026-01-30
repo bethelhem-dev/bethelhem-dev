@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shanese 
+# Hi there, I'm Shanese 
 
 💻 Backend Developer | MERN & API Development Enthusiast  
 💡 Passionate about empowering women in tech | @ALX_Africa student  | Software Engineering ScholarShip Student @AASTU
